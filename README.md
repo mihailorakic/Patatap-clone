@@ -6,9 +6,15 @@ Description:
 
 Tech Stack:
 
-- paper.js
-- howler.js
+- Paper.js
+- Howler.js
 
 Production:
 - Open index.html after download or go to: https://mihailorakic.github.io/patatap-clone/
 
+Possible improvements:
+
+- UI scaling for different sized devices
+- Add mobile support
+- Graphical improvements
+- Additional effects
